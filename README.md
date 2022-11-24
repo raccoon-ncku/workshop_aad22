@@ -3,7 +3,7 @@ at Department of Architecture, National Cheng Kung University (NCKU), Taiwan
 
 
 ## Workshop Team
-* ChiaChing Yen
+* Chia Ching Yen
 
 
 
