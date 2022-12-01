@@ -25,8 +25,8 @@ We will share the main tools and files via this repository.
 * [Slides](https://docs.google.com/presentation/d/1DhorE3vvWhWAOLSAfeg5oq3S4Y3-MM3D3Wjon9DCh2M/edit?usp=sharing)
 
 ### Day 2
-* Slides
-* [KUKA Operator Training Level 1](https://docs.google.com/presentation/d/15XVlAwplSnY7Gh0MX_H0Y_2SLvio-tZHKGouif-THcs/edit#slide=id.g104a09d43b2_0_116)
+* [Slides](https://docs.google.com/presentation/d/17n1b9e9IAHAsiMjselPw_gC6gt5imokxxhhlzrLS-Uc/edit?usp=sharing)
+
 
 
 ## Computer Setup
@@ -81,8 +81,8 @@ docker run hello-world
 Check if the tab COMPAS exists in Grasshopper. Place the `info` component on the canvas to get more information.
 ![compas_installed_in_rhino](assets/img/compas_installed_in_rhino.png)
 
-## note
-A docker image file around 4GB needs to be deployed to the computer before the session.
 
-The computer should have access to the internet(at least github.com) during the session.
 
+## Additional Resources
+* [Docker image](https://drive.google.com/file/d/1oQp7KOB3NUe4sQQ90L28MwS-7EYIt0HW/view?usp=sharing)
+* [KUKA | prc](https://drive.google.com/file/d/16zO1XpI57uaVzvpUgNZiE99s4IHOv_Zz/view?usp=sharing) (windows only)
