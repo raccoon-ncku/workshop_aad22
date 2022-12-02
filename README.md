@@ -4,7 +4,7 @@ at Department of Architecture, National Cheng Kung University (NCKU), Taiwan
 
 ## Workshop Team
 * Chia Ching Yen
-
+* Hsu Jia Sho
 
 
 ## Schedule
